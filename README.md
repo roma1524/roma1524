@@ -1,6 +1,3 @@
-# roman1524
-my personal repository
-
 Hi 👋 My name is Roman
 ======================
 
