@@ -4,7 +4,7 @@ Hi 👋 My name is Roman
 Frontend developer
 ------------------
 
-* 🌍  I'm based in Donetsk, Ukraine
+* 🌍  I'm based in Novopolotsk, Belarus
 * ✉️  You can contact me at [newpod7@mail.ru](mailto:newpod7@mail.ru)
 * 🧠  I'm learning ReactJS
 
