@@ -30,7 +30,7 @@ Frontend developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/roma1524" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kulik9881" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.codewars.com/users/roma1524" target="_blank" rel="noreferrer"><img src="https://plugins.jetbrains.com/files/22542/381805/icon/pluginIcon.png" width="32" height="32" /></a>
+<a href="https://www.codewars.com/users/roma1524" target="_blank" rel="noreferrer"><img src="https://codybonney.com/images/1x1/tags/codewars.png" width="32" height="32" /></a>
 </p>
 
 ### Badges
