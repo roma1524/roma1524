@@ -1,13 +1,14 @@
 name: Generate Snake
 
 on:
-  schedule: # обновление каждый день
+  schedule: # запускается каждый день в полночь
     - cron: "0 0 * * *"
-  workflow_dispatch: # запуск вручную
+  workflow_dispatch: # можно запускать вручную из вкладки Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
