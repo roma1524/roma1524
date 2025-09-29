@@ -15,7 +15,7 @@ class Developer {
   hobbies = ["web app architecture", "football", "3D modeling"];
 socials = {
     email: "kulikr.js@mail.ru",
-    linkedin: "https://www.linkedin.com/in/sergey-mikhovich"
+    linkedin: ""
   };
   funFact = "I enjoy building small side projects & trying new tools";
 }
