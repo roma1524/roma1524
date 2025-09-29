@@ -13,5 +13,9 @@ class Developer {
     this.stack = ["React", "Next.js", "TypeScript"];
   }
   hobbies = ["web app architecture", "football", "3D modeling"];
+socials = {
+    email: "kulikr.js@mail.ru",
+    linkedin: "https://www.linkedin.com/in/sergey-mikhovich"
+  };
   funFact = "I enjoy building small side projects & trying new tools";
 }
