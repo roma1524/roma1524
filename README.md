@@ -12,11 +12,6 @@ class Developer {
     this.role = "Frontend Developer";
     this.stack = ["React", "Next.js", "TypeScript"];
   }
-  hobbies = ["UI/UX", "new tech", "web app architecture"];
+  hobbies = ["web app architecture", "football", "3D modeling"];
   funFact = "I enjoy building small side projects & trying new tools";
 }
-
-## 📈 GitHub stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roma1524&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roma1524&layout=compact&theme=dark)  
