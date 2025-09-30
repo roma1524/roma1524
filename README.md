@@ -5,7 +5,6 @@
 
 ## 🧑‍💻 About Me  
 
-```js
 class Developer {
   constructor() {
     this.name = "Roman";
@@ -38,3 +37,4 @@ socials = {
 
 
 ![snake gif](https://raw.githubusercontent.com/roma1524/roma1524/output/github-contribution-grid-snake.svg)
+
