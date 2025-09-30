@@ -1,5 +1,5 @@
 [<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Roman%20👋&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Roman%Kulik%20👋&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35)
 
 ---
 
@@ -21,6 +21,8 @@ socials = {
 }
 ]
 
+---
+
 ## 🛠️ Tech Stack & Tools  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
@@ -32,3 +34,13 @@ socials = {
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+
+---
+
+## ⌨️ What I Do  
+
+[![Typing SVG](...)](https://git.io/typing-svg)
+
+<!-- сюда вставляешь -->
+## 🛠️ Tech Stack & Tools  
+...
