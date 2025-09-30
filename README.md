@@ -35,7 +35,6 @@ socials = {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 
----
 
 
 ![snake gif](https://raw.githubusercontent.com/roma1524/roma1524/output/github-contribution-grid-snake.svg)
