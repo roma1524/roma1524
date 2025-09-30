@@ -1,41 +1,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Roman%20Kulik%20👋&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35)
 
----
+<h1 align="center">👋 Hi there. I'm Roman Kulik</h1>
+<h2 align="center">💻 Frontend Developer</h2>
 
-## 🧑‍💻 About Me  
+<p align="center">
+  <img align="center" src="./developer.png" width="400" alt="Developer"/>
+</p>
 
-class Developer {
-  constructor() {
-    this.name = "Roman";
-    this.role = "Frontend Developer";
-    this.stack = ["React", "Next.js", "TypeScript"];
-  }
-  hobbies = ["web app architecture", "football", "3D modeling"];
-socials = {
-    email: "kulikr.js@mail.ru",
-    linkedin: "https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BA%D1%83%D0%BB%D0%B8%D0%BA-4a4bb3230/"
-  };
-  funFact = "I enjoy building small side projects & trying new tools";
-}
-]
+<h3 align="center">🪪 About Me 🪪</h3>
 
----
-
-## 🛠️ Tech Stack & Tools  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-
-
-```javascript
+```js
 class Developer {
   constructor() {
     this.name = "Roman";
@@ -49,8 +24,19 @@ class Developer {
     this.funFact = "I enjoy building small side projects & trying new tools";
   }
 }
+```
 
+<h3 align="center">🚀 Tools 🚀</h3>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
+    <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker" />
+ </p>
+
+<h3 align="center">🤝 Connect with me 🤝</h3>
+
+<p align="center"> 
+   <a href="mailto:sergey.mikhovich98@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me" /> </a> &nbsp; <a href="https://www.linkedin.com/in/sergey-mikhovich" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> </p>
 
 
 ![snake gif](https://raw.githubusercontent.com/roma1524/roma1524/output/github-contribution-grid-snake.svg)
-
