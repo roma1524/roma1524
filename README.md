@@ -3,9 +3,9 @@
 
 <h2 align="center">💻 Frontend Developer</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="./developer.png" width="400" alt="Developer"/>
-</p>
+</p> -->
 
 <h3 align="center">🪪 About Me 🪪</h3>
 
