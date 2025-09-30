@@ -38,4 +38,4 @@ socials = {
 ---
 
 
-![snake gif](https://github.com/roma1524/roma1524/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/roma1524/roma1524/output/github-contribution-grid-snake.svg)
