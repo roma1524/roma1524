@@ -37,11 +37,5 @@ socials = {
 
 ---
 
-## ⌨️ What I Do  
 
-[![Typing SVG](...)](https://git.io/typing-svg)
-
-<!-- сюда вставляешь -->
-## 🛠️ Tech Stack & Tools  
-...
-]
+![snake gif](https://github.com/roma1524/roma1524/blob/output/github-contribution-grid-snake.svg)
