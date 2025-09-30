@@ -35,6 +35,22 @@ socials = {
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 
 
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Roman";
+    this.role = "Frontend Developer";
+    this.stack = ["React", "Next.js", "TypeScript"];
+    this.hobbies = ["web app architecture", "football", "3D modeling"];
+    this.socials = {
+      email: "kulikr.js@mail.ru",
+      linkedin: "https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BA%D1%83%D0%BB%D0%B8%D0%BA-4a4bb3230/"
+    };
+    this.funFact = "I enjoy building small side projects & trying new tools";
+  }
+}
+
+
 
 ![snake gif](https://raw.githubusercontent.com/roma1524/roma1524/output/github-contribution-grid-snake.svg)
 
