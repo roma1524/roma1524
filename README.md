@@ -1,11 +1,10 @@
-
+<h1 align="center">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Roman%20Kulik%20👋&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35)
+</h1>
+
 
 <h2 align="center">💻 Frontend Developer</h2>
 
-<!-- <p align="center">
-  <img align="center" src="./developer.png" width="400" alt="Developer"/>
-</p> -->
 
 <h3 align="center">🪪 About Me 🪪</h3>
 
