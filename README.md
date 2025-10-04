@@ -11,7 +11,7 @@
 ```js
 class Developer {
   constructor() {
-    this.name = "Roman";
+    this.name = "Roman Kulik";
     this.role = "Frontend Developer";
     this.stack = ["React", "Next.js", "TypeScript"];
     this.hobbies = ["web app architecture", "football", "3D modeling"];
