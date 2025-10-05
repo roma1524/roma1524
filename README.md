@@ -19,7 +19,7 @@ class Developer {
       email: "kulikr.js@mail.ru",
       linkedin: "https://www.linkedin.com/in/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BA%D1%83%D0%BB%D0%B8%D0%BA-4a4bb3230/"
     };
-    this.funFact = "I enjoy building small side projects & trying new tools";
+    this.funFact = "I enjoy trying new tools";
   }
 }
 ```
