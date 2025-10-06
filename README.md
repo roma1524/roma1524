@@ -3,10 +3,8 @@
 
 
 
-<h2 align="center">💻 Frontend Developer</h2>
+<h1 align="center">💻 Frontend Developer</h1>
 
-
-<h3 align="center">🪪 About Me 🪪</h3>
 
 ```js
 class Developer {
