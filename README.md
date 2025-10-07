@@ -28,7 +28,7 @@ class Developer {
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
-    <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker,codewars" />
+    <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker,git" />
  </p>
 
 <h3 align="center">🤝 Connect with me 🤝</h3>
