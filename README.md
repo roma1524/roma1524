@@ -27,7 +27,7 @@ class Developer {
 <h3 align="center">🚀 Tools 🚀</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,styledcomponents,sass,postman,nextjs" />
     <img src="https://skillicons.dev/icons?i=postgres,vite,html,css,figma,git,github,docker,gulp" />
  </p>
 
