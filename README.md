@@ -9,7 +9,7 @@
 ```js
 class Developer {
   constructor() {
-    this.name = "Roman";
+    this.name = "Roman Kulik";
     this.role = "Frontend Developer";
     this.coreTech = "React 🔥";
   }
